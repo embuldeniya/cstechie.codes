@@ -7,6 +7,6 @@ Some of the repos are hidden. -let me know if you know about them
 
 ###
 
-Also git repo @ [git](https://github.com/embuldeniya/)
+Also git repo @ [git](https://github.com/embuldeniya/) <br>
 Personal [webpage](cstechie.me)
 
