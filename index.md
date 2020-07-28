@@ -1,34 +1,12 @@
-## Welcome to My GitHub Pages
-
-I will add my work over here... 
+## Welcome to My Codespages
 
 
-### Markdown
+All of work availabe here. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Some of the repos are hidden. -let me know if you know about  
 
-```markdown
-Syntax highlighted code block
+please contact me for 
 
-# Header 1
-## Header 2
-### Header 3
+#
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Link](https://github.com/embuldeniya/) and 
